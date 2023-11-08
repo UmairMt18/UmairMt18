@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UmairMt18
-- 👀 I’m interested .Net developement
-- 🌱 I’m currently learning ASP.NET Core
+- 👋 Hi, I’m Umair
+- 👀 I’m interested in Full-stack developement
+- 🌱 I’m currently learning ASP.NET Core along with angular.
 - 📫 Contact at: umairmt18@gmail.com
 
 <!---
